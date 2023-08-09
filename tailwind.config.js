@@ -5,7 +5,14 @@ module.exports = {
     fontFamily: {
       regular: "Open Sans",
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        bg: "url('img/bg.jpg')",
+      },
+      colors: {
+        bg: "#ebe0e0",
+      },
+    },
   },
   plugins: [],
 };
