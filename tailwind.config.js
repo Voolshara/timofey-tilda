@@ -12,6 +12,14 @@ module.exports = {
       colors: {
         bg: "#ebe0e0",
       },
+      width: {
+        "carousel-el": "48rem",
+        carousel: "58rem",
+      },
+      height: {
+        "carousel-el": "30rem",
+        carousel: "32rem",
+      },
     },
   },
   plugins: [],

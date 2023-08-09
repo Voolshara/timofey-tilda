@@ -1,7 +1,7 @@
 import React, { FC, useContext, useEffect, useState } from "react";
 import { observer } from "mobx-react-lite";
 
-const HelloBlock: FC = () => {
+const AboutBlock: FC = () => {
   return (
     <div className="italic w-2/3 mt-20 mb-20 text-center">
       <p>Информация о комании</p>
@@ -15,4 +15,4 @@ const HelloBlock: FC = () => {
   );
 };
 
-export default observer(HelloBlock);
+export default observer(AboutBlock);
