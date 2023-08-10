@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         bg: "url('img/bg.jpg')",
+        carousel1: "url('img/carousel1.jpg')",
       },
       colors: {
         bg: "#ebe0e0",
@@ -15,10 +16,14 @@ module.exports = {
       width: {
         "carousel-el": "48rem",
         carousel: "58rem",
+        "carousel-text": "30rem",
       },
       height: {
         "carousel-el": "30rem",
         carousel: "32rem",
+      },
+      borderRadius: {
+        "icon-circle": "4rem",
       },
     },
   },

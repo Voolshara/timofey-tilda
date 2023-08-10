@@ -1,4 +1,4 @@
-import React, { FC, useContext, useEffect, useState } from "react";
+import React, { FC } from "react";
 import { observer } from "mobx-react-lite";
 
 const AboutBlock: FC = () => {
