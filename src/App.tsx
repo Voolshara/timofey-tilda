@@ -5,6 +5,7 @@ import HelloBlock from "./components/HelloBlock";
 import About from "./components/About";
 import Directions from "./components/Directions";
 import Advantage from "./components/Advantage";
+import Contacts from "./components/Contacts";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Directions />
       <Advantage />
+      <Contacts />
     </div>
   );
 }
