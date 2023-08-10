@@ -6,6 +6,7 @@ import About from "./components/About";
 import Directions from "./components/Directions";
 import Advantage from "./components/Advantage";
 import Contacts from "./components/Contacts";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Directions />
       <Advantage />
       <Contacts />
+      <Footer />
     </div>
   );
 }
