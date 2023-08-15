@@ -5,7 +5,7 @@ const ContactsBlock: FC = () => {
   return (
     <div className="flex items-center justify-center flex-col bg-gray-300 bg-opacity-40 pt-32 pb-32 w-full">
       <p className="font-semibold mb-5 text-5xl">+7 (927) 666-92-05</p>
-      <p className="font-semibold mb-5 text-5xl">+7 (352) 45-02-68</p>
+      <p className="font-semibold mb-5 text-5xl">+7 (8352) 45-02-68</p>
       <p className="font-semibold mb-12 text-5xl">navigator-tk@mail.ru</p>
       <p className="font-light">428034, ул. Гузовского, д. 12/15, помещ. 1</p>
       <p className="font-light">Чебоксары</p>
