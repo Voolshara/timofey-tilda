@@ -3,7 +3,7 @@ import { observer } from "mobx-react-lite";
 
 import HelloBlock from "./components/HelloBlock";
 import About from "./components/About";
-import Directions from "./components/Directions";
+// import Directions from "./components/Directions";
 import Advantage from "./components/Advantage";
 import Contacts from "./components/Contacts";
 import Footer from "./components/Footer";
@@ -13,7 +13,7 @@ function App() {
     <div className="flex justify-center items-center font-regular flex-col ">
       <HelloBlock />
       <About />
-      <Directions />
+      {/* <Directions /> */}
       <Advantage />
       <Contacts />
       <Footer />
