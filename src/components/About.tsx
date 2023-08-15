@@ -4,7 +4,7 @@ import { observer } from "mobx-react-lite";
 const AboutBlock: FC = () => {
   return (
     <div className="bg-gray-100 flex items-center justify-center">
-      <div className="w-1/2 mt-20 mb-20 text-center text-lg ">
+      <div className="w-1/2 mt-20 mb-20 text-center text-base ">
         <p>
           Хотите провести свой отпуск незабываемо? Ещё и так, чтобы понравилось
           всем членам семьи?

@@ -75,7 +75,7 @@ const AdvantagesBlock: FC = () => {
       <div className="flex flex-row justify-around">
         {grid.map((el, index) => (
           <div key={index} className="w-1/5 flex flex-col items-center">
-            <div className="bg-gray-400 bg-opacity-30 m-5 p-8 rounded-icon-circle  border-gray-600">
+            <div className="bg-gray-400 bg-opacity-30 m-5 p-6 rounded-icon-circle  border-gray-600">
               {el.icon}
             </div>
             <p className="text-2xl font-semibold mt-3 mb-6 text-center">
